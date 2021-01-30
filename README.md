@@ -8,7 +8,7 @@
 2. A ROCCAT - Juke Virtual 7.1 USB Stereo External Sound Card since the pi can't handle the audio play back.
 3. Logitech - z533 Multimedia Speakers for a nice, boomy audio experience.
 4. StepManiax Stage from <a href="https://shop.steprevolution.com/collections/frontpage/products/stepmaniax-stage-5th-generation">https://shop.steprevolution.com/collections/frontpage/products/stepmaniax-stage-5th-generation</a> or any pad of your choice.
-5. Simfiles provided from <a href="https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles>https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles</a>
+5. Simfiles provided from <a href="https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles">https://zenius-i-vanisher.com/v5.2/simfiles.php?category=simfiles</a>
 
 ### Build & Install
 
